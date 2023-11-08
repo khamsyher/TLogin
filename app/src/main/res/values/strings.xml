@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TLogin</string>
+    <string name="my_link1"><u>Forgot Password?</u>.</string>
+    <string name="my_link2"><u>SignUp</u>.</string>
+</resources>
